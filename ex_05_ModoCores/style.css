@@ -1,0 +1,27 @@
+/* alterando cor por nome */
+.nome {
+    color: blueviolet;
+    background-color: lightpink;
+}
+/* alterando cor por hexadecimal */
+.hexadecimal {
+    color: #731752;
+    background-color: #ffd0ee;
+}
+/* alterando cor por rgba */
+.RGBA {
+    color: rgba(111, 0, 71, 0.76) ;
+    background-color:rgba(111, 0, 71, 0.23);
+}
+
+/* alterando a segunda pagina */
+.titulo-background { 
+    color: red;
+    background-color: white;
+    font-size: 30px;
+    font-style: oblique;
+}
+.div-background {
+    background-image: url(fundo.jpg);
+    height: 800px;
+}
