@@ -1,0 +1,33 @@
+/* Adicionando CSS */
+/* com seletor "TAG" */
+
+h1 {
+    color: blue; 
+    font-size: 80px;
+}
+h2 {
+    color: red;
+    font-size: 80px;
+}
+p {
+   font-weight: lighter;
+   color: black;
+   font-size: 20px;
+}
+/* Adicionando CSS */
+/* com seletor "TAG" */
+/* id não pode ser compartilhado */
+#emchamas {
+    font-size: 40px;
+    color: darkred;
+}
+#pjo {
+    font-size: 40px;
+    color: darkblue;
+}
+/* Add css com seletor "class" */
+.livro{
+    color: rgb(173, 135, 250);
+    font-weight: lighter;
+    font-size: 16px;
+}
