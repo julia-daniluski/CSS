@@ -1,0 +1,14 @@
+/* usando css externo */
+h1 {
+    color: hotpink;
+    font-size: 80px;
+}
+
+h2 {
+    color: rgb(217, 0, 255);
+    font-size:  180px;
+}
+
+p {
+    color: mediumblue;
+}
