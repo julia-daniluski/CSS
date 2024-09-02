@@ -1,0 +1,11 @@
+.posicao{
+    height: 300px;
+    width: 300px;
+    background-color:aquamarine;
+    border-bottom: 5px dashed navy;
+}
+
+.static {
+    border-right: 5px solid brown;
+    position: static;
+}

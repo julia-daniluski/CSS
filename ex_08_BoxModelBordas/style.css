@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+.boxmodel {
+    /* largura*/
+    width: 200px;
+    /* altura */
+    height: 200px;
+    /* cor de fundo*/
+    background-color: deeppink;
+    /* 'acolchoamento' do conteúdo */
+    padding: 30px 30px;
+    /* borda */
+    border: 15px solid darkorange;
+    border-left: 10px dotted greenyellow;
+    border-right-style:groove;
+    /* mudar as pontas */
+    border-radius: 10px;
+    margin: 100px 100px;
+} 
